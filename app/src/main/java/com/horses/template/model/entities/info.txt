@@ -1,0 +1,1 @@
+Aqui van las entidades encapsuladas(getter y stetter)
