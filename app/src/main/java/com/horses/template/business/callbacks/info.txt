@@ -1,0 +1,1 @@
+Aqui van los callbacks personalizados para cada servicio
